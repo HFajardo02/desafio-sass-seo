@@ -13,6 +13,7 @@ footer a {
   text-decoration: none;
 }
 
+/*Datos*/
 /*Boton productos*/
 .button {
   background-color: #b065b3;
@@ -46,6 +47,7 @@ footer a {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+/*Color seccion acordion*/
 .bg-acordion {
   background-color: #673a6b;
 }
@@ -85,6 +87,5 @@ footer a {
     height: 8rem;
   }
 }
-/*Mapas*/
 
 /*# sourceMappingURL=style.css.map */
