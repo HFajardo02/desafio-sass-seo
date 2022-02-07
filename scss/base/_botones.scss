@@ -1,0 +1,19 @@
+/*Boton productos*/
+.button {
+    background-color: rgb(176, 101, 179);
+    border: none;
+    color: white;
+    padding: 0.938em 2em;
+    text-align: center;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    font-size: 1em;
+}
+
+/*Transicion en el boton productos*/
+.button:hover{
+    background-color: #e97ce9;
+    transition: all 0.5s;
+    color: white;
+}
