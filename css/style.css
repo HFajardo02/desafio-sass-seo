@@ -16,7 +16,7 @@ footer a {
 /*Boton productos*/
 .button {
   background-color: #b065b3;
-  border: none;
+  border-radius: 20px;
   color: white;
   padding: 0.938em 2em;
   text-align: center;
@@ -46,7 +46,6 @@ footer a {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-/*Fondo de la descripcion de lineas en index*/
 .bg-acordion {
   background-color: #673a6b;
 }
@@ -86,5 +85,6 @@ footer a {
     height: 8rem;
   }
 }
+/*Mapas*/
 
 /*# sourceMappingURL=style.css.map */
